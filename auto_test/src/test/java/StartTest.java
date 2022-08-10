@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class StartTest {
+public class StartTest {
+
+
+
+
 }
